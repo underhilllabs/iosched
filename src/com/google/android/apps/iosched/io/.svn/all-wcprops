@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/io
+END
+LocalSessionsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/io/LocalSessionsHandler.java
+END
+RemoteSessionsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/io/RemoteSessionsHandler.java
+END
+LocalTracksHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/io/LocalTracksHandler.java
+END
+LocalSearchSuggestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/io/LocalSearchSuggestHandler.java
+END
+LocalBlocksHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/io/LocalBlocksHandler.java
+END
+RemoteSpeakersHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/io/RemoteSpeakersHandler.java
+END
+LocalRoomsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/io/LocalRoomsHandler.java
+END
+RemoteWorksheetsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/io/RemoteWorksheetsHandler.java
+END
+LocalExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/io/LocalExecutor.java
+END
+RemoteVendorsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/io/RemoteVendorsHandler.java
+END
+RemoteExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/io/RemoteExecutor.java
+END
+XmlHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/io/XmlHandler.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/tests/src/com/google/android/apps/iosched/io
+END
+SessionsHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/tests/src/com/google/android/apps/iosched/io/SessionsHandlerTest.java
+END
+StubHttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/tests/src/com/google/android/apps/iosched/io/StubHttpClient.java
+END

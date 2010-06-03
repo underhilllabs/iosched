@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/provider
+END
+ScheduleDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/provider/ScheduleDatabase.java
+END
+ScheduleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/provider/ScheduleProvider.java
+END
+ScheduleContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/provider/ScheduleContract.java
+END

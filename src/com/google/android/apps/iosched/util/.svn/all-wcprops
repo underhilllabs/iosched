@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/util
+END
+DetachableResultReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/util/DetachableResultReceiver.java
+END
+Maps.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/util/Maps.java
+END
+FractionalTouchDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/util/FractionalTouchDelegate.java
+END
+NotesExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/util/NotesExporter.java
+END
+NotifyingAsyncQueryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/util/NotifyingAsyncQueryHandler.java
+END
+SpreadsheetEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/util/SpreadsheetEntry.java
+END
+MathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/util/MathUtils.java
+END
+SelectionBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/util/SelectionBuilder.java
+END
+ParserUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/util/ParserUtils.java
+END
+WorksheetEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/util/WorksheetEntry.java
+END
+Lists.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/util/Lists.java
+END
+UIUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/util/UIUtils.java
+END
+Sets.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/util/Sets.java
+END

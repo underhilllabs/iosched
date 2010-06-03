@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/res/layout
+END
+activity_starred.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/res/layout/activity_starred.xml
+END
+activity_session_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/res/layout/activity_session_detail.xml
+END
+activity_search.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/res/layout/activity_search.xml
+END
+activity_sessions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/res/layout/activity_sessions.xml
+END
+activity_blocks_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/res/layout/activity_blocks_content.xml
+END
+activity_track_details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/res/layout/activity_track_details.xml
+END
+activity_map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/res/layout/activity_map.xml
+END
+activity_vendor_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/res/layout/activity_vendor_detail.xml
+END
+activity_vendors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/res/layout/activity_vendors.xml
+END
+list_item_note_create.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/res/layout/list_item_note_create.xml
+END
+tab_indicator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/res/layout/tab_indicator.xml
+END
+activity_notes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/res/layout/activity_notes.xml
+END
+list_item_vendor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/res/layout/list_item_vendor.xml
+END
+localize_on_demand.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/res/layout/localize_on_demand.xml
+END
+now_playing_after.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/res/layout/now_playing_after.xml
+END
+now_playing_before.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/res/layout/now_playing_before.xml
+END
+activity_schedule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/res/layout/activity_schedule.xml
+END
+activity_sessions_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/res/layout/activity_sessions_content.xml
+END
+speaker_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/res/layout/speaker_detail.xml
+END
+list_item_note.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/res/layout/list_item_note.xml
+END
+tab_session_moderator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/res/layout/tab_session_moderator.xml
+END
+activity_vendors_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/res/layout/activity_vendors_content.xml
+END
+activity_note_edit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/res/layout/activity_note_edit.xml
+END
+tab_session_summary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/res/layout/tab_session_summary.xml
+END
+list_item_session.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/res/layout/list_item_session.xml
+END
+now_playing_during.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/res/layout/now_playing_during.xml
+END
+activity_notes_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/res/layout/activity_notes_content.xml
+END
+list_section.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/res/layout/list_section.xml
+END
+colorstrip.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/res/layout/colorstrip.xml
+END
+activity_tracks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/res/layout/activity_tracks.xml
+END
+activity_home.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/res/layout/activity_home.xml
+END
+titlebar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/res/layout/titlebar.xml
+END
+tab_track_summary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/res/layout/tab_track_summary.xml
+END
+list_item_track.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/res/layout/list_item_track.xml
+END

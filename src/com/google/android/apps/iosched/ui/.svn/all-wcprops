@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/ui
+END
+StarredActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/ui/StarredActivity.java
+END
+SearchActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/ui/SearchActivity.java
+END
+SessionDetailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/ui/SessionDetailActivity.java
+END
+SessionsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/ui/SessionsActivity.java
+END
+TrackDetailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/ui/TrackDetailActivity.java
+END
+TracksActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/ui/TracksActivity.java
+END
+NotesActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/ui/NotesActivity.java
+END
+HomeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/ui/HomeActivity.java
+END
+NoteEditActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/ui/NoteEditActivity.java
+END
+ScheduleActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/ui/ScheduleActivity.java
+END
+MapActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/ui/MapActivity.java
+END
+BlocksActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/ui/BlocksActivity.java
+END
+VendorsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/ui/VendorsActivity.java
+END
+VendorDetailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/com/google/android/apps/iosched/ui/VendorDetailActivity.java
+END

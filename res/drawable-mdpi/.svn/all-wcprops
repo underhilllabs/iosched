@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/res/drawable-mdpi
+END
+minitab_default.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/res/drawable-mdpi/minitab_default.9.png
+END
+minitab_pressed.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/res/drawable-mdpi/minitab_pressed.9.png
+END
+minitab_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/res/drawable-mdpi/minitab_selected.9.png
+END
+minitab_unselected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/res/drawable-mdpi/minitab_unselected.9.png
+END
