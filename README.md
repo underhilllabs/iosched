@@ -14,7 +14,7 @@ How to Update the App code for your Convention
 
 How to Compile and test app with Ant
 ===============================
-1. cd into root src directory and run ant debug.  This will create app apk and sign it with debug key.
+1. cd into root src directory and run "ant debug".  This will create app apk and sign it with debug key.
 2. test it on your phone or virtual device with adb install name-of-debug-app.apk
 
 
