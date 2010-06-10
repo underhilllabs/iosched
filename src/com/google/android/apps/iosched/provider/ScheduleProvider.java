@@ -279,6 +279,7 @@ public class ScheduleProvider extends ContentProvider {
     @Override
     public Uri insert(Uri uri, ContentValues values) {
         if (LOGV) Log.v(TAG, "insert(uri=" + uri + ", values=" + values.toString() + ")");
+	Log.v(TAG, "insert(uri=" + uri + ", values=" + values.toString() + ")");
         final SQLiteDatabase db = mOpenHelper.getWritableDatabase();
         final int match = sUriMatcher.match(uri);
         switch (match) {

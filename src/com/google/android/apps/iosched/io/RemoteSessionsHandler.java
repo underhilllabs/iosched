@@ -78,7 +78,7 @@ public class RemoteSessionsHandler extends XmlHandler {
             if (type == START_TAG && ENTRY.equals(parser.getName())) {
                 // Process single spreadsheet row at a time
                 final SpreadsheetEntry entry = SpreadsheetEntry.fromParser(parser);
-
+		Log.v(TAG, "found session " + entry.toString());
                 final String sessionId = sanitizeId(entry.get(Columns.SESSION_LINK));
                 final Uri sessionUri = Sessions.buildSessionUri(sessionId);
 
